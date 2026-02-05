@@ -1,1 +1,20 @@
 # healthcare-hackathon
+# Emergency Bed & Doctor Availability Tracker
+
+## Problem
+In medical emergencies, patients waste crucial time searching for hospitals with available beds and doctors.
+
+## Solution
+A centralized platform showing real-time hospital bed and doctor availability.
+
+## Workflow
+Emergency request ? Location detection ? Hospital list ? Availability display
+
+## Prototype
+Screenshots / Figma link
+
+## Tech Stack (Proposed)
+Frontend, Backend, APIs
+
+## Future Enhancements
+Ambulance integration, AI prediction
